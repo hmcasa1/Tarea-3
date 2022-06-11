@@ -22,6 +22,19 @@ MARCO TEORICO
 
 Mapas conceptuales cap V
 
+![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%201.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%202.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%203.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%204.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%205.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%206.png)
+
+![1](
 
 
 Mapas conceptuales cap VI
