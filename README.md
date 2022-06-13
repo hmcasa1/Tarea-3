@@ -20,7 +20,7 @@ OBJETIVO ESPECIFICO
 
 MARCO TEORICO 
 
-Mapas conceptuales cap V
+Mapas conceptuales cap V y VI
 
 ![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%201.png)
 
@@ -34,16 +34,27 @@ Mapas conceptuales cap V
 
 ![1](https://github.com/hmcasa1/Tarea-3/blob/736a0c0f14165cf5ec2107a2a3c25bad4d5ccc8e/imagenes/Mapa%206.png)
 
-![1](
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%207.png)
 
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%208.png)
 
-Mapas conceptuales cap VI
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%209.png)
 
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%2010.png)
 
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%2011.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%2012.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%2013%20y%2014.png)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Mapa%2015.png)
 
 EJERCICIOS CAP V
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%202.png)
  
 Para conectar todos los resistores en serie se conectan los siguientes puntos: 1 - 8 - 2 - 3 - 4 - 7 - 5 - 6 
 
@@ -67,6 +78,8 @@ Rt:1Ω+2.2Ω+5.6Ω+12Ω+22Ω
 Rt:42.8 Ω
 
 12. Calcule la RT en cada circuito de la figura 5-71.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2012.png)
  
 q) Rt=1kΩ+5.6Ω+2.2kΩ
 
@@ -92,11 +105,15 @@ Rt=(5.6Ω)(3)+(1.0kΩ)+(100Ω)(2)
 
 18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2018.png)
+
 Rt=510Ω+820Ω+680Ω
 
 Rt=2010Ω
 
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2020.png)
  
 a)       I=V/R
 
@@ -127,6 +144,8 @@ Y_O=V/R
 R=5/0.00892=560Ω 
 
 24. Determine VR1, R2 y R3 en la figura 5-76.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2024.png)
  
 V=R*I≫V_R1=82Ω*12.3mA=1V 
 
@@ -137,6 +156,8 @@ V_R2=12V-1V-2.21V=8.79V
 V_R=1V;V_R2=8.79V;V_R3=2.21V
 
 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2026.png)
  
 I=V/R
 
@@ -172,6 +193,8 @@ El valor del voltaje de la fuente es 26V
                              
 32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
  
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2032.png)
+
 V-V1-V2-V3…VN=0
 
 15-0.5-1.5-1-3.2-V2-2=0
@@ -179,6 +202,8 @@ V-V1-V2-V3…VN=0
 V2= 6.8V
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2034.png)
  
 R=V/I            V= I*R          R=P/I
 
@@ -196,6 +221,8 @@ R3= 1.2V/10Ma= 120 Ω
  
 Resultado del problema 35.- 3.35mA
 
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio36.png)
+
 V= I*R
 
 V1= 3.35mA * 1800 Ω= 6.03 v 
@@ -207,6 +234,8 @@ V3= 3.35mA * 820 Ω= 2.74 v
 V4= 3.35mA * 560 Ω= 1.87 v 
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2038.png)
  
 Vx= (VS/RT) *Rx
 
@@ -215,6 +244,8 @@ Vx= (VS/RT) *Rx
 	V1= (8/6500) *5500= 6.77V
   
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2040.png)
  
 Vx= (VS/RT) *Rx
 
@@ -223,6 +254,8 @@ Vx= (VS/RT) *Rx
 V2= (12/2150) *2150= 12V             Voltaje máximo
 
 42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2042.png)
  
 El voltaje seria el mismo, no cambia
 
@@ -268,12 +301,7 @@ I=√0.0003446=19.1 mA
 
 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor? 
 
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2052.png)
 	
 Para este ejercicio podemos medir el voltaje en el punto A con respecto a tierra y el voltaje en el punto B con respecto a tierra.  Des pues de ello empleando la fórmula de la diferencia de voltajes encontramos la resistencia
 
@@ -281,36 +309,17 @@ V_r2=Vb-Va
 
 54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2 
 
-
-
-
-
-
-
-     
-
- 
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2054.png)
 
 56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2056.png)
 
 Como el circuito está conectado en serie, el voltaje se divide para cada una de las resistencias. Se podría considerar la posibilidad de que una parte del circuito se encuentre abierta y solo la resistencia bien conectada mida el voltaje total. O también que una resistencia puede estar dañada o quemada dando pasó al voltaje total hacia la resistencia R2. 
 
 *58. Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo
 
-
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2058.png)
 
 -Si se presenta un problema ya que el enunciado dice que entre estas dos puntas, el valor de la resistencia es de 19.9 kΩ
 
@@ -319,19 +328,14 @@ Como el circuito está conectado en serie, el voltaje se divide para cada una de
 *60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1 ⁄2 W. (a) ¿Qué sucedió? (b) Específicamente, ¿qué debe hacerse para arreglar el problema? (c) ¿Con qué voltaje ocurrió la falla?
 a) R11 se ha quemado porque tiene el valor de resistencia más alto:
 (b) Reemplazar R11 (10kΩ)
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio60.png)
  
-
-
 EJERCICIOS CAP VI
 
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
 
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%202%20cap%206.png)
 
 R5, R1,R2 están en serie pero en el diagrama de circuitos también existen resistores conectados en paralelo, entonces existe más de una trayectoria en el circuito para la corriente entre dos puntos distintos y si el voltaje entre dichos puntos también aparece a través de cada uno de las ramas entonces existe un circuito en paralelo entre esos puntos. 
 
@@ -345,9 +349,7 @@ I =RT/RM*I              I=550Ω/2200Ω*(5.4mA)=1.35 mA
 
 6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68
 
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%206%20cap%206.png)
 
 R_T=1/(1/1000Ω+1/2700Ω)=0.7297kΩ
 
@@ -357,12 +359,7 @@ R_T=1/(1/1000Ω+1/1800Ω)=0.6428kΩ
 
 8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
 
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%208%20cap%206.png)
 
 R_T=729.7Ω  o 730Ω         I=15V/(730Ω  )=20 m A
 
@@ -378,14 +375,15 @@ R5=175 mA
 
 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
  
- 
- 
- 
+! [1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2012%20cap%206.png)
+
 14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
 
 1/Rt=1/(1 MΩ)+1/(2.2 MΩ)+1/(5.6 MΩ)+1/(12 MΩ)+1/(22 MΩ)=567 kΩ
 
 16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2016%20cap%206.png)
  
 1/Rt=  1/(560 Ω)+  1/(220 Ω)→Rt=158 Ω
 
@@ -402,16 +400,14 @@ Segundo grupo Rt=(100/10)=10
 Tercer grupo Rt=(100/2)=50
 
 20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2020%20cap%206.png)
  
 1/(389.2 Ω )=  1/(680 Ω)+  1/R2→R2=910 Ω
 
 22) ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2022%20cap%206.png)
 
 	1/RT=1/27Ω+1/33Ω+1/33Ω=R_T
   
@@ -434,6 +430,8 @@ R=R_T⋅4⋅
 R=5v/(1,1 1m⁡A )=4504 Ω
 
 26) Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2026%20cap%206.png)
  
 a) I_2=50mA
 
@@ -448,6 +446,8 @@ d)I1=253mA
 R=395 Ω
 
 28) Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2028%20cap%206.png)
  
 R_T=374kΩ
 
@@ -456,6 +456,8 @@ I=24/374kΩ
 I=64uA
 
 30) Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2030%20cap%206.png)
  
 a)I_T=I_1+I_2
 
@@ -476,12 +478,16 @@ I_T=1+2-2.5
 IT=0,5 A
 
 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2032%20cap%206.png)
   
 I1=R2/(R2+R1) I_T≫2.7KΩ/3.1KΩ 3=2.19A 
 
 I2=R2/(R2+R1) I_T≫1KΩ/3.7KΩ 3=0.811A 
 
 34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2034%20cap%206.png)
  
 RT=1/(1/1R+1/2R+1/3R+1/4R)=0.48Ω 
 
@@ -537,6 +543,8 @@ I=I_T/(N resistores)=(50 mA)/5=0.01 A
 V=I*R=50mA*1kΩ=50V 
 
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2034%20cap%206.png)
  
 R_T=1/(1/220Ω+1/100Ω+1/1kΩ+1/270Ω)=47.5Ω 
 
@@ -551,6 +559,8 @@ R=V/I=10V/10.1mA=990Ω aproximando a 1k Ω
 Se deduce que el resistor abierto con un valor de 1 k Ω es el resistor 3
 
 46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![1](https://github.com/hmcasa1/Tarea-3/blob/fc9059f641c5896cb07f06b7b0c2a987540603d3/imagenes/Ejercicio%2046%20cap%206.png)
  
 I=25V/4.7kΩ=5.32mA 
 
