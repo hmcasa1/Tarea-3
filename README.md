@@ -10,13 +10,13 @@ OBJETIVOS:
 
 OBJETIVO GENERAL
 
-°
+Comprender el funcionamiento de los circuitos tanto en serie como paralelos y elfuncionamiento de las leyes en estos circuitos con base a las explicaciones en clase y en el libro para trabajar mejor en la materia   
 
 OBJETIVO ESPECIFICO 
 
-°
+Determinar la importancia de un circuito en serie y su funcionamiento, el de las leyes ya estudiadas anteriormente 
 
-°
+Comprender como funciona un circuito en paralelo y las leyes que se aplican en este circuito 
 
 MARCO TEORICO 
 
@@ -588,4 +588,15 @@ R=4.7kΩ*4.7kΩ*6.8kΩ*5.6kΩ*1kΩ*5.6kΩ=518Ω
 
 R=10kΩ*2.2kΩ*2.2kΩ*3.3kΩ*18kΩ=422Ω 
 
+VIDEO 
+
+CONCLUSIONES 
+
+La corriente que fluye por el circuito es la misma en el circuito completo y en cada dispositivo y  el voltaje en cada dispositivo será distinto si la resistencia de estos es distinta.
+
+En un circuito en paralelo el voltaje es el mismo en cada uno de los dispositivos y corresponde al voltaje de la fuente de alimentación.
+
+BIBLIOGRAFIA 
+
+• Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Educación Pearson. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comentarios en commit 73edc1a
 
